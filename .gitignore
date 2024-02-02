@@ -1,0 +1,10 @@
+.venv
+.chainlit
+*__pycache__
+.idea
+.env
+record_manager_cache.sql
+storage
+.DS_Store
+data
+*.sql
